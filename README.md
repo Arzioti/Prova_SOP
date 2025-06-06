@@ -1,7 +1,8 @@
 📊 Prova_SOP
 Prova Sistemas Operaconais
 
-Aplicação simples feita com **Python + Streamlit** para visualizar os dados de vendas por país, a partir de um arquivo `.csv`. Utilizando a AWS EC2.
+Aplicação feita com **Python + Streamlit** para visualizar os dados de vendas por país, a partir de um arquivo `.csv`. Utilizando a AWS EC2.
+
 ## 📂 Código-fonte
 
     import streamlit as st
